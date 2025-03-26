@@ -1,0 +1,178 @@
+{
+  "variations": [
+    {
+      "id": 1,
+      "heading": "The Future of Web Development",
+      "subHeading": "Modern Technologies Shaping the Industry",
+      "description": "Web development is rapidly evolving with new technologies enhancing user experience and performance.",
+      "lottie": "/lottie/web_development.json",
+      "publishedDate": "2025-03-25",
+      "slug": "future-of-web-development",
+      "tags": ["Web Development", "Tech Trends", "JavaScript"],
+      "readTime": "6 min",
+      "subHeading2": "Key Trends in 2025",
+      "description2": "From serverless computing to AI-powered applications, here are the major trends dominating the web development landscape.",
+      "list": [
+        "Serverless Architecture",
+        "AI-Driven User Interfaces",
+        "WebAssembly Enhancements",
+        "Progressive Web Apps (PWAs)",
+        "Edge Computing"
+      ],
+      "subHeading3": "Essential Tools for Developers",
+      "description3": "Developers need powerful tools to keep up with modern demands. Here are some must-have tools in 2025:",
+      "list2": [
+        "Next.js for Optimized React Apps",
+        "Tailwind CSS for Efficient Styling",
+        "TypeScript for Scalable JavaScript",
+        "Vite for Faster Development",
+        "Docker for Seamless Deployment"
+      ]
+    },
+    {
+      "id": 2,
+      "heading": "Mastering UI/UX Design",
+      "subHeading": "Creating Intuitive User Experiences",
+      "description": "Designing for users involves more than just aesthetics—it's about functionality and accessibility.",
+      "lottie": "/lottie/ui-ux_design.json",
+      "publishedDate": "2025-03-20",
+      "slug": "mastering-ui-ux",
+      "tags": ["UI/UX", "Design", "User Experience"],
+      "readTime": "5 min",
+      "subHeading2": "Top UI/UX Design Principles",
+      "description2": "Great design follows certain principles that enhance usability and engagement.",
+      "list": [
+        "Consistency in Design",
+        "Responsive & Adaptive Layouts",
+        "Minimalist User Interface",
+        "Effective Use of Color Psychology",
+        "Accessibility for All Users"
+      ],
+      "subHeading3": "Best Tools for UI/UX Designers",
+      "description3": "These tools help designers create exceptional user interfaces and experiences:",
+      "list2": [
+        "Figma for Collaborative Design",
+        "Adobe XD for Prototyping",
+        "Framer for Interactive Interfaces",
+        "Sketch for UI/UX Wireframing",
+        "InVision for Design Collaboration"
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "AI in Software Development",
+      "subHeading": "How AI is Changing the Coding World",
+      "description": "Artificial Intelligence is revolutionizing the way developers write, debug, and optimize code.",
+      "lottie": "/lottie/ai-software.json",
+      "publishedDate": "2025-03-15",
+      "slug": "ai-in-software-development",
+      "tags": ["AI", "Software Development", "Machine Learning"],
+      "readTime": "7 min",
+      "subHeading2": "AI-Powered Development Tools",
+      "description2": "New AI tools are helping developers become more efficient and productive.",
+      "list": [
+        "AI Code Completion",
+        "Automated Testing",
+        "Bug Prediction Models",
+        "Low-Code & No-Code Platforms",
+        "AI-Enhanced DevOps"
+      ],
+      "subHeading3": "Top AI Coding Assistants",
+      "description3": "These AI-powered tools assist developers with smarter code suggestions.",
+      "list2": [
+        "GitHub Copilot",
+        "Tabnine",
+        "CodeT5",
+        "Codex (by OpenAI)",
+        "DeepCode"
+      ]
+    },
+    {
+      "id": 4,
+      "heading": "The Rise of Serverless Architecture",
+      "subHeading": "Why Companies are Adopting Serverless",
+      "description": "Serverless computing is transforming the way developers deploy applications.",
+      "lottie": "/lottie/serverless.json",
+      "publishedDate": "2025-03-10",
+      "slug": "serverless-architecture-rise",
+      "tags": ["Cloud Computing", "Serverless", "Infrastructure"],
+      "readTime": "6 min",
+      "subHeading2": "Benefits of Serverless",
+      "description2": "Going serverless comes with a variety of advantages for businesses.",
+      "list": [
+        "Reduced Infrastructure Costs",
+        "Auto-Scaling Capabilities",
+        "Faster Time-to-Market",
+        "Event-Driven Execution",
+        "Improved Developer Experience"
+      ],
+      "subHeading3": "Popular Serverless Platforms",
+      "description3": "These platforms provide robust serverless solutions.",
+      "list2": [
+        "AWS Lambda",
+        "Google Cloud Functions",
+        "Azure Functions",
+        "Netlify Functions",
+        "Cloudflare Workers"
+      ]
+    },
+    {
+      "id": 5,
+      "heading": "Cybersecurity Trends in 2025",
+      "subHeading": "Protecting Digital Assets in the AI Era",
+      "description": "Cyber threats are evolving, and businesses must stay ahead to protect sensitive data.",
+      "lottie": "/lottie/cybersecurity.json",
+      "publishedDate": "2025-03-05",
+      "slug": "cybersecurity-trends-2025",
+      "tags": ["Cybersecurity", "Data Protection", "AI Security"],
+      "readTime": "5 min",
+      "subHeading2": "Emerging Cyber Threats",
+      "description2": "With AI-driven attacks on the rise, security strategies must adapt.",
+      "list": [
+        "AI-Powered Phishing",
+        "Ransomware-as-a-Service",
+        "IoT Vulnerabilities",
+        "Quantum Computing Threats",
+        "Cloud Security Breaches"
+      ],
+      "subHeading3": "Best Practices for Cybersecurity",
+      "description3": "These security practices help businesses stay protected.",
+      "list2": [
+        "Zero Trust Security",
+        "Multi-Factor Authentication",
+        "Regular Security Audits",
+        "AI-Based Threat Detection",
+        "Secure DevOps (DevSecOps)"
+      ]
+    },
+    {
+      "id": 6,
+      "heading": "The Power of Progressive Web Apps",
+      "subHeading": "Why PWAs are the Future of Mobile Experience",
+      "description": "PWAs combine the best features of web and mobile applications.",
+      "lottie": "/lottie/pwa.json",
+      "publishedDate": "2025-02-28",
+      "slug": "power-of-progressive-web-apps",
+      "tags": ["PWA", "Web Apps", "Mobile Development"],
+      "readTime": "4 min",
+      "subHeading2": "Advantages of PWAs",
+      "description2": "PWAs enhance user experience with native app-like features.",
+      "list": [
+        "Offline Functionality",
+        "Push Notifications",
+        "Fast Load Times",
+        "Lower Development Costs",
+        "Seamless Updates"
+      ],
+      "subHeading3": "Top PWA Frameworks",
+      "description3": "These frameworks help build high-quality PWAs.",
+      "list2": [
+        "React PWA",
+        "Angular PWA",
+        "Vue PWA",
+        "Ionic",
+        "Workbox"
+      ]
+    }
+  ]
+}
